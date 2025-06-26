@@ -1,0 +1,15 @@
+# Node/Next.js
+node_modules/
+.next/
+.env
+
+# Java/Spring
+target/
+*.class
+*.jar
+
+# OS/Editor/system files
+.DS_Store
+Thumbs.db
+
+# inital
